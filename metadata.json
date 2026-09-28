@@ -1,0 +1,6 @@
+{
+  "name": "Evolución Humana — Diccionario & Estudio (Español - Հայերեն)",
+  "description": "Интерактивный учебный словарь и курс: эволюция человека на испанском с мгновенным переводом на армянский при клике.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
